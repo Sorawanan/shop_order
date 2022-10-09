@@ -1,0 +1,5 @@
+cleaner,30.00,false,2147483647
+butter,460.00,false,20
+cocoa,320.00,true,2147483647
+coffee,190.00,false,2
+cereals,440.00,true,2147483647

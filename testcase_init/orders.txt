@@ -1,0 +1,8 @@
+1,1,yogurt|coffee,PAID::CASH
+2,2,coffee|bread,PAID::CASH
+3,2,coffee|bread,VOIDED::CASH
+4,5,honey|popcorn,PENDING::UNKNOWN
+5,5,honey|popcorn,PAID::EWALLET
+6,4,honey|popcorn,PAID::CASH
+7,12,chocolate|ice cream,PAID::CARD
+8,4,chocolate|ice cream,PAID::CASH

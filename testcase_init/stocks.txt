@@ -1,0 +1,22 @@
+cleaner,30.00,false,2147483647
+bags, ,.00,false,2147483647
+berries,440.00,true,-10
+butter,460.00,false,20
+cocoa,320.00,true,2147483647
+coffee,190.00,false,2147483647
+flour,170.00,  ,2147483647
+fish,120.00,true,,
+salt,150.00,true,2147483647
+honey,60.00,true,2147483647
+oil,10.00,  ,2147483647
+cereals,440.00,true,2147483647
+chewing gum,400.00,true,
+ham,310.00,true,2147483647
+apple,250.00,,2147483647
+yogurt,270.00,false,2147483647
+chocolate,90.00,false,2147483647
+chicken,130.00,true,,,
+milk,210.00,true,1000
+popcorn,40.00,false,1500
+ice cream,120.00,true,2000
+bread,40.00,true,

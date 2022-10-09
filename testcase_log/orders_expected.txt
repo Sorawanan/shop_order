@@ -1,0 +1,4 @@
+1,1,butter|cocoa,PAID::CASH
+2,2,cereals|cocoa,PENDING::UNKNOWN
+5,2,cereals|cocoa,PAID::EWALLET
+6,2,coffee|cereals,VOIDED::EWALLET
