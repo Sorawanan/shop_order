@@ -1,7 +1,3 @@
-//GROUP 12
-//Student ID: 6388012, 6388019, 6388022
-//Section 1
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
