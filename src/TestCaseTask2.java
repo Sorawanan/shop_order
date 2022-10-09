@@ -33,7 +33,7 @@ public class TestCaseTask2 {
 
 	@Test
 	public void testInitCustomer() {
-		customerData = DataManagement.initCustomer("C:\\Users\\User\\Code\\Project02\\testcase_init\\customers.txt");
+		customerData = DataManagement.initCustomer("customers.txt");//add location of file
 		for(int key: customerData.keySet()) {
 			System.out.println(key + "->" + customerData.get(key));
 		}
@@ -55,7 +55,7 @@ public class TestCaseTask2 {
 
 	@Test
 	public void testInitStock() {
-		stockData = DataManagement.initStock("C:\\Users\\User\\Code\\Project02\\testcase_init\\stocks.txt");
+		stockData = DataManagement.initStock("stocks.txt");//add location of file
 		for(String key: stockData.keySet()) {
 			System.out.println(key + "->" + stockData.get(key));
 		}
@@ -76,7 +76,7 @@ public class TestCaseTask2 {
 
 	@Test
 	public void testInitWallet() {
-		walletData = DataManagement.initWallet("C:\\Users\\User\\Code\\Project02\\testcase_init\\wallets.txt");
+		walletData = DataManagement.initWallet("wallets.txt");//add location of file
 		for(int key: walletData.keySet()) {
 			System.out.println(key + "->" + walletData.get(key));
 		}
