@@ -22,10 +22,10 @@ class TestCaseTask5{
 	static String SAMPLE_PATH = Paths.get("").toAbsolutePath().toString()
 			+ File.separator + "testcase_log" +  File.separator;
 
-	static String STOCK_FILE = "C:\\Users\\Chaiyakorn\\Desktop\\MUICT_OOP-Project02\\P02GroceryStore v1.1\\FileOutput\\StockLog.txt";
-	static String CUSTOMER_FILE = "C:\\Users\\Chaiyakorn\\Desktop\\MUICT_OOP-Project02\\P02GroceryStore v1.1\\FileOutput\\CustomerLog.txt";
-	static String WALLET_FILE = "C:\\Users\\Chaiyakorn\\Desktop\\MUICT_OOP-Project02\\P02GroceryStore v1.1\\FileOutput\\WalletsLog.txt";
-	static String ORDER_FILE = "C:\\Users\\Chaiyakorn\\Desktop\\MUICT_OOP-Project02\\P02GroceryStore v1.1\\FileOutput\\OrderLog.txt";
+	static String STOCK_FILE = "StockLog.txt"; //add location of file
+	static String CUSTOMER_FILE = "CustomerLog.txt";
+	static String WALLET_FILE = "WalletsLog.txt";
+	static String ORDER_FILE = "OrderLog.txt";
 
 
 	@BeforeAll
