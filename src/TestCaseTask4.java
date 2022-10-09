@@ -15,10 +15,10 @@ class TestCaseTask4 {
 	String SAMPLE_PATH = Paths.get("").toAbsolutePath().toString()
 			+ File.separator + "testcase_init" +  File.separator;
 
-	String STOCK_FILE = "C:\\Users\\User\\Code\\Project02\\testcase_init\\stocks.txt";
-	String CUSTOMER_FILE = "C:\\Users\\User\\Code\\Project02\\testcase_init\\customers.txt";
-	String WALLET_FILE = "C:\\Users\\User\\Code\\Project02\\testcase_init\\wallets.txt";
-	String ORDER_FILE = "C:\\Users\\User\\Code\\Project02\\testcase_init\\orders.txt";
+	String STOCK_FILE = "stocks.txt";//add location of file
+	String CUSTOMER_FILE = "customers.txt";//add location of file
+	String WALLET_FILE = "wallets.txt";//add location of file
+	String ORDER_FILE = "orders.txt";//add location of file
 
 	Map<String, Item> stockData;
 	Map<Integer, Customer> customerData;
