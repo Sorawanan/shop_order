@@ -1,8 +1,3 @@
-//GROUP 12
-//Student ID: 6388012, 6388019, 6388022
-//Section 1
-
-
 public class Item implements Loggable {
 
 	//**************************** DO NOT MODIFY **********************************//
